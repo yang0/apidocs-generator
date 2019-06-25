@@ -7,11 +7,11 @@ Quick start
 
 1. 安装最新版django restframework
 
-    git clone git+https://github.com/encode/django-rest-framework
+    pip install git+https://github.com/encode/django-rest-framework
 
 2 安装api-generator
 
-    git clone git+https://github.com/yang0/django_sqltools.git
+    pip install git+https://github.com/yang0/django_sqltools.git
 
 3 配置django settings文件
 
