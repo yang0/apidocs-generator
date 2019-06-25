@@ -11,7 +11,7 @@ Quick start
 
 2 安装api-generator
 
-    pip install git+https://github.com/yang0/django_sqltools.git
+    pip install git+https://github.com/yang0/apidocs-generator.git
 
 3 配置django settings文件
 
